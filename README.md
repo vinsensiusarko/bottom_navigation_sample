@@ -1,6 +1,6 @@
-# berkat_kasih
+# bottom_navigation_sample
 
-Crowd Funding App.
+Bottom Navigation Bar Sample.
 
 ## Getting Started
 
